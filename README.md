@@ -10,4 +10,4 @@ List of azure labs:
 List of Cybersecurity Homelabs
 
 - [Cybersecurity Compliance](https://github.com/DanielDominguezBender/Cybersecurity_Compliance)
-- [Vulnerability Analysis - using OpenVas]()
+- [Vulnerability Analysis - using OpenVas](https://github.com/DanielDominguezBender/OpenVas-Vulnerability-Analysis)
